@@ -122,7 +122,3 @@ const createSlide=()=>{
             item.scrollLeft-=containerWidth+200;
         });
     });
-
-
-
-
