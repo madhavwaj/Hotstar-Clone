@@ -1,3 +1,5 @@
+//javascript code start here
+
 let movies=[
     {
         name:"falcon and the winter soldier",
@@ -122,3 +124,4 @@ const createSlide=()=>{
             item.scrollLeft-=containerWidth+200;
         });
     });
+//javascript code ends here
